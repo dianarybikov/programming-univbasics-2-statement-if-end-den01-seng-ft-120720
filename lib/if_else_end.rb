@@ -3,3 +3,4 @@ if current_time
   puts"even"
 else
   puts"odd"
+end
