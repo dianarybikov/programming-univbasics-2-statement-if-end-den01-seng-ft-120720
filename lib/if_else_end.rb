@@ -1,4 +1,4 @@
-current_time= "22:07:44"
+current_time= Time.now
 if current_time 
   puts"even"
 else
